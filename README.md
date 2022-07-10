@@ -9,7 +9,7 @@ Testing runs on local machine. 10,000 test images are processed and then display
 ![Screenshot of command prompt open in the background with tkinter GUI in the foreground](/assets/images/neural-net.png?raw=true "Current Implementation Screenshot")
 
 ## Future Implementation
-Web application hosted on AWS that runs the Python test scripts on the back-end server and then displays the results on an interactive website. Project is in development and will be done in Spring 2022.
+Web application hosted on AWS that runs the Python test scripts on the back-end server and then displays the results on an interactive website. Project is in development.
 
 ## Dataset
 Dataset of road images taken from NVIDIA.
