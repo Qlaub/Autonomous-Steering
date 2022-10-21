@@ -16,3 +16,5 @@ Dataset of road images taken from NVIDIA.
 
 ## Developed using
 * Python
+* TensorFlow/Keras
+* tkinter
