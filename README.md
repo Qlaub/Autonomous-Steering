@@ -1,7 +1,7 @@
-# Autonomous Driving Car Project
+# Autonomous Car Steering Deep Learning Project
 
 ## Purpose
-Predicting the steering wheel angle of a car given an image of the road ahead of the car. Predictions are made using a convolutional neural network trained on 33,749 road images.
+Predicting the steering wheel angle of a car given an image of the road ahead of the car. Predictions are made using a convolutional neural network (CNN) trained on 33,749 road images.
 
 ## Current Implementation
 Testing runs on local machine. 10,000 test images are processed and then displayed using a tkinter GUI, which allows the user to navigate through the results. Pictures with their associated accuracies are displayed, and can be sorted by highest and lowest accuracy. Training and testing scripts are hosted on GitHub while dataset is too large to be hosted without compression. 
